@@ -1,0 +1,7 @@
+{
+  "name": "Status Button",
+  "description": "A button to mark report as final and disable after click",
+  "type": "visualization",
+  "version": "1.0.0",
+  "author": "Your Name"
+}
